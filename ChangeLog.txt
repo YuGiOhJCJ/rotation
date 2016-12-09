@@ -1,3 +1,7 @@
 2016-12-09  YuGiOhJCJ  <yugiohjcj@1s.fr>
 
+	* README.txt: Modified file (add the rotation_set command).
+
+2016-12-09  YuGiOhJCJ  <yugiohjcj@1s.fr>
+
 	* *: First version.

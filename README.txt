@@ -35,6 +35,12 @@ rotation
   * Parameters:
    * <degrees>: The degrees
 
+ The rotation_set command:
+  * Usage: /rotation_set <degrees>
+  * Description: Set the rotation of the player
+  * Parameters:
+   * <degrees>: The degrees
+
  The rotation_version command:
   * Usage: /rotation_version
   * Description: Show the rotation version
