@@ -1,0 +1,4 @@
+To install this minetest mod, extract the archive then move the "rotation" folder to the "mods" directory of minetest.
+
+For further information or help see:
+http://wiki.minetest.com/wiki/Installing_Mods
